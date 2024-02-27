@@ -39,10 +39,10 @@ class _TaskListScreenState extends State<TaskListScreen> {
     
 //***** Activity 4 *****
   //Hints: Now that you have the object newTask, now implement it into the task list
-  final newTask = await showDialog<Task>(
-      context: context,
-      builder: (context) => AddTaskDialog(),
-    );
+  // final newTask = await showDialog<Task>(
+  //     context: context,
+  //     builder: (context) => AddTaskDialog(),
+  //   );
 //**********************
 
 //***** Activity 2 *****
@@ -72,7 +72,7 @@ class _TaskListScreenState extends State<TaskListScreen> {
             color: const Color.fromARGB(255, 255, 254, 252),
         //***** Activity 1 *****
             elevation: 0,
-            margin: const EdgeInsets.symmetric(vertical: 20, horizontal: 150),
+            margin: const EdgeInsets.symmetric(vertical: 60, horizontal: 150),
         //**********************
             child: ListTile(
               title: Text(
