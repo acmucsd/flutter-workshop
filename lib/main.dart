@@ -85,7 +85,7 @@ class _TaskListScreenState extends State<TaskListScreen> {
               trailing: Row(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-      //***** Activity 1 *****
+      //***** Activity 3 *****
                   // IconButton(
                       //Hints: Look at documentation 
                       //(https://api.flutter.dev/flutter/material/IconButton-class.html)
