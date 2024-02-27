@@ -1,0 +1,1 @@
+ /Users/school/Desktop/hack-flutter-starter/hack-flutter-starter/.dart_tool/flutter_build/6136a826de234ec83c95a1074edb15c4/native_assets.yaml: 

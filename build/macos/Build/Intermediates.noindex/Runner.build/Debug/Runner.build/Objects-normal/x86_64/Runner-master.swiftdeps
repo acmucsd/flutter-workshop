@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "eb5c19546396b2a6b628c0e54c7b0a944620b975b150bc999d6ae35b48cfff91"
+build_start_time: [1709053715, 731184005]
+build_end_time: [1709053767, 731438159]
+inputs:
+  "/Users/school/Desktop/hack-flutter-starter/hack-flutter-starter/macos/Flutter/GeneratedPluginRegistrant.swift": [1709053595, 976136684]
+  "/Users/school/Desktop/hack-flutter-starter/hack-flutter-starter/macos/Runner/AppDelegate.swift": [1708997836, 826211452]
+  "/Users/school/Desktop/hack-flutter-starter/hack-flutter-starter/macos/Runner/MainFlutterWindow.swift": [1708997836, 839198112]
