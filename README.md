@@ -1,13 +1,8 @@
-<<<<<<< HEAD
-# hack-flutter
-=======
-# hackflutter
+# Mobile Development with Flutter!
 
-A new Flutter project.
+Here's some starter code to get you started with your Task management application
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -17,4 +12,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> master
