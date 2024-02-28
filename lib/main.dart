@@ -36,18 +36,17 @@ class _TaskListScreenState extends State<TaskListScreen> {
   List<Task> tasks = [Task(title: "Hello", description:"Goodbye")];
   
   void _addTask() async {
-    
-//***** Activity 4 *****
-  //Hints: Now that you have the object newTask, now implement it into the task list
-  // final newTask = await showDialog<Task>(
-  //     context: context,
-  //     builder: (context) => AddTaskDialog(),
-  //   );
-//**********************
-
-//***** Activity 2 *****
+  //***** Activity 2 *****
     //Hints: Look at the slides...
-//**********************
+  //**********************
+    
+  //***** Activity 4 *****
+    // final newTask = await showDialog<Task>(
+    //     context: context,
+    //     builder: (context) => AddTaskDialog(),
+    //   );
+    //Hints: Now that you have the object newTask, now implement it into the task list
+  //**********************
   }
 
 //***** Activity 3 *****
